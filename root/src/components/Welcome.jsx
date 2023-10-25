@@ -55,9 +55,9 @@ const Welcome = () => {
             <br></br>
             <hr></hr>
             Made By : <br></br>
-            1) Pratham Mahajan <br></br>
-            2) Mohit Pansare <br></br>
-            3) Sakshee Patil <br></br><hr></hr>
+            1) Divyansh Dalmia <br></br>
+            2) Anshula Raina <br></br>
+            3) Zahid Bhat <br></br><hr></hr>
           </p>
           {!currentAccount && (
             <button
